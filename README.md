@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @88Wraith-s
+- 👀 I’m interested in coding, gaming, food
+- 🌱 I’m currently learning do python, and refine my html and css skills
+- 💞️ I’m looking to collaborate on websites and python coding
+- 📫 How to reach me you dont (kanavp.j@gmail.com)
